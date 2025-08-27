@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    font-weight: 200;
+}
+
+.variable {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-feature-settings: "wdth" 700;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    border: 1px solid blue;
+    border-radius: 10%;
+}
+
+.azul {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.tercero {
+    border-radius: 50%;
+}
+
+.cuarto {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.quinto {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.sexto {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
